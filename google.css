@@ -1,0 +1,56 @@
+h1{
+  color: #4885ed;
+  font-family: futura;
+  font-size: 80px;
+  line-height: 0.1;
+}
+.G{
+  color: #4885ed
+}
+.o{
+  color: #f4c20d
+}
+.l{
+  color: #3cba54
+}
+.e{
+  color: #db3236
+}
+.t{
+  text-align: center;
+  width: 500px;
+}
+
+table{
+  table-layout: fixed;
+  width: 800px;
+  height: 200px;
+}
+td{
+  /*border: 1px solid black;*/
+}
+.button{
+  line-height: 3;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #777777;
+  font-family: sans-serif;
+}
+.b1{
+  align-items: flex-end;
+}
+.space{
+  height: 150px;
+}
+table{
+  align-self: center;
+}
+p{
+  text-align: center;
+  font-size: 10px;
+}
+.top{
+  text-align: right;
+  color: #333333;
+}
