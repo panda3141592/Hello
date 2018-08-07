@@ -1,9 +1,25 @@
-h1{
+.topbar{
+  text-align: right;
+  color: #333333;
+}
+
+.Google{
   color: #4885ed;
   font-family: futura;
-  font-size: 80px;
-  line-height: 0.1;
+  font-size: 45px;
+  text-align: center;
+  margin-top: 140px;
 }
+
+.bar{
+  text-align: center;
+}
+.search{
+  border-width: medium;
+  border-radius: 3px;
+  padding: 3px;
+}
+
 .G{
   color: #4885ed
 }
@@ -21,36 +37,25 @@ h1{
   width: 500px;
 }
 
-table{
-  table-layout: fixed;
-  width: 800px;
-  height: 200px;
+.b{
+  text-align: center;
+  color: #555555;
+  font-family: futura;
+  width: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 13px;
 }
-td{
-  /*border: 1px solid black;*/
-}
+
 .button{
-  line-height: 3;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-top: 20px;
   text-align: center;
-  color: #777777;
-  font-family: sans-serif;
+  border-color: #FFFFFF;
 }
-.b1{
-  align-items: flex-end;
-}
-.space{
-  height: 150px;
-}
-table{
-  align-self: center;
-}
-p{
+
+.footer{
   text-align: center;
+  font-family: futura;
+  padding: 5px;
   font-size: 10px;
-}
-.top{
-  text-align: right;
-  color: #333333;
 }
